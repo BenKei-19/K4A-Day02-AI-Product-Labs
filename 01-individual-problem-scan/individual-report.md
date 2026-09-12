@@ -4,9 +4,9 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: Huy Nguyễn
-- Mã học viên: K4-HUY
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Tech Lead / Software Engineer
+- Họ và tên: Nguyễn Quang Huy
+- Mã học viên: 2A202602421
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm cuối CMC
 - Công việc hàng tuần (3-5 gạch đầu dòng để soi problem):
   - Review Code (Pull Requests) cho team
   - Viết unit tests cho các tính năng mới
